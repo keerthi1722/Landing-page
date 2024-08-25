@@ -118,14 +118,12 @@ section button {
 }
 
 /* Responsive Styles */
-@media screen and (max-width:620px) {
-    header {
-        flex-direction: column;
-        text-align: center;
-        width:150%;
+@media screen and (max-width:620){
+    .logo{
+        transform:translate(0%, 0%) ;
     }
     img .biryani{
-        width: 80%;
+        width: 100%;
     }
     header nav {
         display: block;
