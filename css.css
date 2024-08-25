@@ -122,7 +122,7 @@ section button {
     header {
         flex-direction: column;
         text-align: center;
-        width:100%;
+        width:150%;
     }
     img .biryani{
         width: 80%;
