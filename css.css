@@ -120,7 +120,8 @@ section button {
 /* Responsive Styles */
 @media screen and (max-width:620){
     .logo{
-        transform:translate(0%, 0%) ;
+        margin-left:0%;
+        margin-right:100%;
     }
     img .biryani{
         width: 100%;
@@ -145,6 +146,7 @@ section button {
         display: block;
         margin-left:100%;
         margin-right:0%;
+        margin-top:0%;
     }
 
     #menu-icon.active + nav ul {
