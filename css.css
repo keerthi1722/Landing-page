@@ -91,3 +91,11 @@ button{
     width:150px;
     height: 40px;
 }
+@media (max-width: 450px) {
+    html {
+        font-size: 50%;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        text-align: center;
+    }
+}
