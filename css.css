@@ -165,5 +165,6 @@ section button {
     } 
     .biryani{
         transform: translate(0%,0%);
+        text-align:center;
     }
 }
