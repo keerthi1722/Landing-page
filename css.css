@@ -145,6 +145,8 @@ section button {
 
     #menu-icon {
         display: block;
+        margin-left:100%;
+        margin-right:0%;
     }
 
     #menu-icon.active + nav ul {
