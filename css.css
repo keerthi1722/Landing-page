@@ -48,7 +48,10 @@ nav ul li a {
     font-weight: 700;
     color: white;
 }
-
+nav ul li a:hover{
+    color:blue;
+    transition:1s;
+}
 /* Section styling */
 section {
     text-align: center;
@@ -116,7 +119,11 @@ section button {
     height: 40px;
     cursor: pointer;
 }
-
+section button:hover{
+    color:crimson;
+    transition:1s;
+    background-color:blue;
+}
 /* Responsive Styles */
 @media screen and (max-width:500px) {
     header {
