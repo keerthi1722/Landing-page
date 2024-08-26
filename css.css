@@ -122,6 +122,9 @@ section button {
     .logo{
         margin-left:0%;
     }
+    header {
+        width:150%;
+    }
     img .biryani{
         width: 100%;
     }
@@ -145,7 +148,7 @@ section button {
         display: block;
         margin-left:100%;
         margin-right:0%;
-        transform:translate (0%, 0%) ;
+        transform:translate (0%, -100%) ;
     }
 
     #menu-icon.active + nav ul {
