@@ -118,7 +118,7 @@ section button {
 }
 
 /* Responsive Styles */
-@media screen and (max-width:520px){
+@media screen and (max-width:720px){
     .logo{
         margin-left:0%;
     }
