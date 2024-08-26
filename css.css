@@ -118,7 +118,7 @@ section button {
 }
 
 /* Responsive Styles */
-@media screen and (max-width:720px){
+@media screen and (max-width:420px){
     header {
         width:100%;
         display-flex:column;
